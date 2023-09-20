@@ -126,7 +126,14 @@ section .title::after{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
-
+#i:hover{
+    color: blue;
+}
+#i{
+    font-size: 20px;
+    margin-left: 25px;
+    color: beige;
+}
 /* menu btn styling */
 .menu-btn{
     color: #fff;
